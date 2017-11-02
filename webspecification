@@ -1,0 +1,25 @@
+PROFESSIONAL SERVERLESS WEBSITE DEVELOPER REQUIRED
+
+Mission: modernization of an old wordpress website: www.jacobsedo.com
+Design Requirement:
+1.	Modern Site
+2.	Unique
+3.	Fast access and user performance
+4.	Responsive 
+5.	Secure
+Design Specification
+Create a new responsive serverless website using python 3.6 website for AWS Lamda/API gateway
+-	Website Requirement
+o	Public Speaker theme
+o	Blog Service theme
+o	Books & Events Sales + PayPal payment
+o	Error handling
+o	Migrate existing wordpress blog from www.jacobsedo.com to AWS specific DB
+o	Post Administration
+o	Event/Book Administration
+-	AWS Requirement
+o	S3 bucket/content
+o	Security recommendation
+o	DynamoDB
+o	Lamda
+o	S3 - Style sheets and java scripts
